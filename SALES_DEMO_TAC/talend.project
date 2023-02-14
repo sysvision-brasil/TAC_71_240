@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:TalendProperties="http://www.talend.org/properties">
+  <TalendProperties:Project xmi:id="_TvQQoaxcEe2urrvlviOcvg" label="Sales_Demo_TAC" description="Jobs para demos" language="java" technicalLabel="SALES_DEMO_TAC" author="_TvQQoqxcEe2urrvlviOcvg" productVersion="Talend Big Data-8.0.1.20221221_1125-patch" url="{&quot;commitLogPattern&quot;:&quot;{0}&quot;,&quot;location&quot;:&quot;https://github.com/sysvision-brasil/TAC_71_240.git&quot;,&quot;settings&quot;:&quot;000&quot;,&quot;storage&quot;:&quot;git&quot;}" type="DI">
+    <migrationTask xmi:id="_TwcjcKxcEe2urrvlviOcvg" id="org.talend.repository.model.migration.CheckProductVersionMigrationTask" breaks="7.1.0" version="7.1.1"/>
+  </TalendProperties:Project>
+  <TalendProperties:User xmi:id="_TvQQoqxcEe2urrvlviOcvg" login="security@company.com" firstName="security" lastName="security" type="DI" additionnalData="{}"/>
+</xmi:XMI>
